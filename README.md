@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/44208c7a-844f-4ebc-bee7-d5d00e788269.gif](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)" width="80%"/>
+  <img src="/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="80%"/>
 </p>
 
 <h1 align="center">Hi, I'm Muhammadjon 👋</h1>
