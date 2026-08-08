@@ -1,22 +1,26 @@
-<h1 align="center">Hi, I'm Muhammadjon 👋</h1>
+<h1 align="center">Привет, я Muhammadjon 👋</h1>
 
 <p align="center">
-  A high school student taking my first steps into programming 🚀
+  Школьник, который делает первые шаги в программировании 🚀
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400"/>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🙋‍♂️ Обо мне
 
-- 🏫 I'm a student, currently learning to code
-- 💻 Right now I'm learning **JavaScript, HTML, CSS**, and **Python**
-- 🌱 Always learning something new and working on small projects
-- 🎯 My goal is to become a skilled developer
-- 📫 Feel free to reach out through the contacts below
+- 🏫 Я школьник и учусь программированию
+- 💻 Сейчас изучаю **JavaScript, HTML, CSS** и **Python**
+- 🌱 Постоянно узнаю что-то новое и пробую писать свои первые проекты
+- 🎯 Цель — стать хорошим разработчиком
+- 📫 Со мной можно связаться через контакты ниже
 
 ---
 
-### 🛠️ Technologies I'm Working With
+### 🛠️ Технологии, с которыми работаю
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,17 +31,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub статистика
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
-> Replace `muhammadjon` in the link above with your actual GitHub username so the stats display correctly.
+> Замените `muhammadjon` в ссылке выше на ваш настоящий никнейм на GitHub, чтобы статистика отображалась правильно.
 
 ---
 
-### 📫 Contact Me
+### 📫 Как со мной связаться
 
 <p align="left">
   <a href="https://t.me/" target="_blank">
@@ -58,6 +62,6 @@
 ---
 
 <p align="center">
-  ⭐️ Thanks for visiting my profile!
+  ⭐️ Спасибо, что заглянули на мою страницу!
 </p>
 
