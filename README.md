@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1.0.0/gifs/hrzn/44208c7a-844f-4ebc-bee7-d5d00e788269.gif" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Muhammadjon 👋</h1>
 
 <p align="center">
   A high school student taking my first steps into programming 🚀
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="100%"/>
 </p>
 
 ---
@@ -64,4 +64,3 @@
 <p align="center">
   ⭐️ Thanks for visiting my profile!
 </p>
-
