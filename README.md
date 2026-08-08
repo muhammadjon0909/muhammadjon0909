@@ -1,26 +1,26 @@
-<h1 align="center">Привет, я Muhammadjon 👋</h1>
+<h1 align="center">Hi, I'm Muhammadjon 👋</h1>
 
 <p align="center">
-  Школьник, который делает первые шаги в программировании 🚀
+  A high school student taking my first steps into programming 🚀
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400"/>
 </p>
 
 ---
 
-### 🙋‍♂️ Обо мне
+### 🙋‍♂️ About Me
 
-- 🏫 Я школьник и учусь программированию
-- 💻 Сейчас изучаю **JavaScript, HTML, CSS** и **Python**
-- 🌱 Постоянно узнаю что-то новое и пробую писать свои первые проекты
-- 🎯 Цель — стать хорошим разработчиком
-- 📫 Со мной можно связаться через контакты ниже
+- 🏫 I'm a student, currently learning to code
+- 💻 Right now I'm learning **JavaScript, HTML, CSS**, and **Python**
+- 🌱 Always learning something new and working on small projects
+- 🎯 My goal is to become a skilled developer
+- 📫 Feel free to reach out through the contacts below
 
 ---
 
-### 🛠️ Технологии, с которыми работаю
+### 🛠️ Technologies I'm Working With
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,17 +31,17 @@
 
 ---
 
-### 📊 GitHub статистика
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
-> Замените `muhammadjon` в ссылке выше на ваш настоящий никнейм на GitHub, чтобы статистика отображалась правильно.
+> Replace `muhammadjon` in the link above with your actual GitHub username so the stats display correctly.
 
 ---
 
-### 📫 Как со мной связаться
+### 📫 Contact Me
 
 <p align="left">
   <a href="https://t.me/" target="_blank">
@@ -62,6 +62,6 @@
 ---
 
 <p align="center">
-  ⭐️ Спасибо, что заглянули на мою страницу!
+  ⭐️ Thanks for visiting my profile!
 </p>
 
