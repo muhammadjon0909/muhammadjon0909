@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
- muhammadjon0909
+**⭐️ From [muhammadjon0909](https://github.com/muhammadjon0909)**
 
 ---
 
