@@ -17,6 +17,10 @@
 - 🌱 Always learning something new and working on small projects
 - 🎯 My goal is to become a skilled developer
 - 📫 Feel free to reach out through the contacts below
+<br></br>
+[![GitHub followers](https://img.shields.io/github/followers/muhammadjon0909?style=social)](https://github.com/muhammadjon0909)
+[![Profile Views](https://komarev.com/ghpvc/?username=muhammadjon0909&color=blueviolet&style=flat-square)](https://github.com/muhammadjon0909)
+
 
 ---
 
