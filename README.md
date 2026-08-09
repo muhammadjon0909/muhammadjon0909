@@ -37,7 +37,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
-> Replace `muhammadjon` in the link above with your actual GitHub username so the stats display correctly.
+ muhammadjon0909
 
 ---
 
