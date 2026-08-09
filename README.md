@@ -37,16 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadjon&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
-**⭐️ From [muhammadjon0909](https://github.com/muhammadjon0909)**
-
----
-
 ### 📫 Contact Me
 
 <p align="left">
@@ -62,8 +52,6 @@
 </p>
 
 - 📱 Telegram: +992 98 890 00 05
-- 📸 Instagram: [@_muhammadjon__09_](https://instagram.com/_muhammadjon__09_)
-- ✉️ Email: muhammadjon26012009@gmail.com
 
 ---
 
